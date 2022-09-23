@@ -13,19 +13,6 @@ void setup() {
     // set pins to output
     pinMode(dirPin,OUTPUT); //sdfdsbfdsiubfdsufbui
  pinMode(pwnPin,OUTPUT);
-  Serial.begin(115200);
-     Serial.begin(115200);
-     Serial.begin(115200);
-    
-    // set pins to output
-    pinMode(dirPin,OUTPUT); //sdfdsbfdsiubfdsufbui
- pinMode(pwnPin,OUTPUT);
-    // set pins to output
-    pinMode(dirPin,OUTPUT); //sdfdsbfdsiubfdsufbui
- pinMode(pwnPin,OUTPUT);
-    // set pins to output
-    pinMode(dirPin,OUTPUT); //sdfdsbfdsiubfdsufbui
- pinMode(pwnPin,OUTPUT);
 
 }
 
