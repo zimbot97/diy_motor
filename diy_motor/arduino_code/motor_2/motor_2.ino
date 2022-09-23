@@ -3,13 +3,13 @@
 // pin settings
 
 int pwnPin = 6;    //b
-int dirPin = 5;    //b
+int dirPin = 8;    //b
 
 
 
 void setup() {
     Serial.begin(115200);
-
+    //shbdsbhs
     // set pins to output
     pinMode(dirPin,OUTPUT);
  pinMode(pwnPin,OUTPUT);
