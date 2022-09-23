@@ -13,6 +13,16 @@ void setup() {
     // set pins to output
     pinMode(dirPin,OUTPUT); //sdfdsbfdsiubfdsufbui
  pinMode(pwnPin,OUTPUT);
+ // function to control motor
+// speed is how fast the motor rotates
+// Please set pwmPin, InaPin and INbPin for the motor you want to drive
+// function to control motor
+// speed is how fast the motor rotates
+// Please set pwmPin, InaPin and INbPin for the motor you want to drive
+// function to control motor
+// speed is how fast the motor rotates
+// Please set pwmPin, InaPin and INbPin for the motor you want to drive
+v
 
 }
 
